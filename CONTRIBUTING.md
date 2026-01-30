@@ -20,3 +20,4 @@ Notes and usage details for Sibyl-Memory.
 - fix a small wording issue
 - add a note about the defaults
 - clarify the setup steps
+- add a note about the defaults
